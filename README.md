@@ -1,7 +1,9 @@
 Hi, I'm Koki Ueno 🤚🏻
 
-フォルダ構成
+Folder structure
 (root)
   ├─ public
-  │    # Web公開用のファイル
+  │    # File for web publishing
+  ├─ reference
+  │
   └─ README.md
