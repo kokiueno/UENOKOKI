@@ -1,0 +1,43 @@
+miniaturisation
+modulalarisation
+increased speed/low latency
+increased power/power efficiency
+
+PCBの役割
+持ち運べる
+電気的に接続できる
+
+
+PCBのマテリアル
+・金属（Copper Layer＆Surface　Processing）
+　Copper　Cu
+	・E'less　Copper：０．５－１μｍ：ホールの周りやサーフェスに使用
+	・ED(Electro Deposited) Copper：Layerをスタックするために使用
+　Gold　Au
+　Nickel　Ni　；でフュージョン
+
+Prepregs（Dielectric Layer）
+・セラミック
+　Glass　Fabric
+・オーガニック
+　Epoxy resins : Heat Resistance, Low Water Absorption, Peel Strength, Toughness
+
+Laser Drilling
+　何を使うかによって形が変わる
+　層を重ねるだけのところは角度があったほうがたくさん重ねれる
+　まっすぐのほうが効率はいいがたくさん重ねれない
+　UVで銅を削る
+　CO2でPrepregsを削る（エネルギーは大きいがCO2で銅を削ろうと思うとリフレクトが発生する）
+
+Dielectric LayerとCore
+　違い：Cure　Or　Not
+　素材：FR4・5（ハイドロジーとテンプレチャー）
+
+Prepregs（Dielectric Layer）の作り方
+ Raw Materials
+ Impregnation(fill)
+ Lay-Up(Stuck)
+ Pressing(Heating and Pressing)
+ Break down
+ Finishing
+
