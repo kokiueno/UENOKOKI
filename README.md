@@ -3,8 +3,9 @@
 
 <h3 align="center">A passionate Data Scientist from Japan</h3>
 
-- 🎓 I currently conduct research at **Computational Intelligence Laboratory**, TTI（Toyota Technological Institute）, Japan
-- 💻 I have learned **Python, R, Stan, SQL, VBA, C, ML Flow, Azure(DevOps), Matlab, Simulink, logisim, PowerBI, LaTeX**
+- 🎓  I currently conduct research at **Computational Intelligence Laboratory**, TTI（Toyota Technological Institute）, Japan
+- 🌱  I worked at Toyota Motor Company, AT&S, AVILEN as a **data scientist**
+- 💬  Contact me if you have any questions; [LinkedIn](https://www.linkedin.com/in/koki-ueno-142b47281)
 
 <h3 align="left">Languages and Tools:</h3>
 &nbsp;
@@ -20,11 +21,15 @@
 
 ## Folder structure
 
-
 ```
 (root)
-├─ public
-| └─ 
-├─ reference
-└─ README.md
+├── .public
+│   ├── 
+│   ├── 
+│   └── 
+├── .reference
+│   ├── 
+│   ├── 
+│   └── 
+└── .README.md
 ```
