@@ -24,12 +24,17 @@
 ```
 (root)
 ├── .public
-│   ├── 
-│   ├── 
-│   └── 
+│   ├── 01_Data_Science
+│       ├── Kaggle
+│       ├── Signate
+│       └── AT&S
+│   ├── 02_ML
+│       └── CNN
+│   └── 03_Consulting
+│       └── GCI
+│
 ├── .reference
-│   ├── 
-│   ├── 
-│   └── 
+│   └── Data Science     
+│
 └── .README.md
 ```
