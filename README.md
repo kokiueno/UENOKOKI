@@ -23,18 +23,23 @@
 
 ```
 (root)
-├── .public
+├── public
 │   ├── 01_Data_Science
-│       ├── Kaggle
-│       ├── Signate
-│       └── AT&S
+│   │   ├── Kaggle
+│   │   │   ├─ 01_Titanic
+│   │   │   ├─ 02_House_Price
+│   │   │   └─ 03_Recruit_Restaurant_Visitor
+│   │   ├── Signate
+│   │   │   ├─ 01_お弁当の需要予測
+│   │   │   └─ 02_
+│   │   └── AT&S
 │   ├── 02_ML
-│       └── CNN
+│   │   └── CNN
 │   └── 03_Consulting
 │       └── GCI
 │
-├── .reference
+├── reference
 │   └── Data Science     
 │
-└── .README.md
+└── README.md
 ```
